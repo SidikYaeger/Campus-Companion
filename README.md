@@ -1,4 +1,4 @@
-# Campus Companion (pls don't expect too much)
+# Campus Companion (pls don't expect too much) code by sonnet 4.6
 
 A full-stack student productivity application for managing courses, assignments,
 weekly schedules, deadlines, and calendar activities in one place.
